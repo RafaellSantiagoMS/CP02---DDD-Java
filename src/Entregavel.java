@@ -1,4 +1,3 @@
-package PACKAGE_NAME;
-
-public class Entregavel {
+public interface Entregavel {
+    double calcularTempo(double distancia);
 }
