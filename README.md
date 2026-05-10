@@ -92,6 +92,7 @@ Além disso, o sistema possui diferentes tipos de status:
 ### 📊 Diagrama UML
 
 🔗 Link do diagrama:
-([cole aqui o link do Canva](https://www.canva.com/))
+([Canva]([https://www.canva.com/](https://canva.link/dw173k6tu8y0m9z)))
 
 📷 Imagem do diagrama:
+![Diagrama UML](<img width="1361" height="922" alt="Diagrama_UML" src="https://github.com/user-attachments/assets/0ea6f913-38f2-4445-9b37-8382553cf8f8" />)
