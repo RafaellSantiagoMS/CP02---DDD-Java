@@ -47,30 +47,16 @@ Ela não poderia ser uma classe comum porque no sistema não faz sentido criar a
 
 ---
 
-### 🔹 4. Sobrescrita de Métodos
-A sobrescrita foi utilizada nos métodos:
-- `calcularTempo()`
-- `calcularCusto()`
+## 🔹 4. Lógica do Sistema
 
-Cada tipo de entregador possui regras diferentes para calcular o tempo e o custo da entrega.
+  ### Como Executar o Projeto
 
-Por exemplo, um entregador de moto possui uma velocidade maior do que um entregador de bicicleta.
-
----
-
-### 🔹 5. Sobrecarga de Métodos
-A sobrecarga foi utilizada no método `atualizarStatus()` da classe `Entrega`.
-
-Foi criado:
-- um método para atualizar apenas o status;
-- outro método para atualizar o status junto com uma observação.
-
-Isso permite atualizar o pedido de formas diferentes dependendo da situação.
+1. Abrir o projeto no IntelliJ IDEA  
+2. Executar a classe `Main.java`  
+3. Utilizar o menu interativo no console
 
 ---
-
-### 🔹 6. Lógica do Sistema
-O sistema permite:
+Com isso o sistema permite:
 - cadastrar entregadores;
 - criar entregas;
 - listar entregadores e entregas;
