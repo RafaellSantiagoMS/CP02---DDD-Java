@@ -47,7 +47,7 @@ Ela não poderia ser uma classe comum porque no sistema não faz sentido criar a
 
 ---
 
-## 🔹 4. Lógica do Sistema
+## 📝 4. Lógica do Sistema
 
   ### Como Executar o Projeto
 
